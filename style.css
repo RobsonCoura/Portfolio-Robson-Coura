@@ -54,3 +54,9 @@ body {
     color: #000000;
     font-family: 'Montserrat', sans-serif;
 }
+
+.imagem {
+    height: 350px;
+    width: 300px;
+    border-radius: 200px;
+}
