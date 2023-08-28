@@ -48,7 +48,7 @@ body {
 }
 
 .apresentacao__conteudo {
-  width: 615px;
+  width: 50%;
   display: flex;
   flex-direction: column;
   gap: 40px;
@@ -119,12 +119,12 @@ body {
 }
 
 
-.apresentacao__links__link {
+.apresentacao__links__navegacao {
   display: flex;
   justify-content: center;
   gap: 16px;
   border: 2px outset var(--cor-terciaria);
-  width: 378px;
+  width: 50%;
   text-align: center;
   border-radius: 20px;
   font-size: 1.5rem;
@@ -139,9 +139,9 @@ body {
   background-color: var(--cor-hover);
 }
 
-.imagem {
-  height: 350px;
-  width: 300px;
+.apresentacao__imagem {
+  height: 50%;
+  width: 30%;
   border-radius: 200px;
   border: 2px solid var(--cor-terciaria);
 }
